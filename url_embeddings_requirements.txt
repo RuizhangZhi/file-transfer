@@ -1,0 +1,9 @@
+bs4
+langchain
+openai
+pandas
+plotly
+python-dotenv
+scikit-learn
+streamlit
+tiktoken
